@@ -1,6 +1,5 @@
 import 'dart:io';
 
-
 int getFavoriteNumber() {
   print("Enter your favorite number:");
   return int.parse(stdin.readLineSync()!);
