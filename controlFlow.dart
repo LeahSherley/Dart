@@ -5,7 +5,6 @@ int getFavoriteNumber() {
   return int.parse(stdin.readLineSync()!);
 }
 
-
 void compareNumber(int number) {
   if (number > 10) {
     print("$number is greater than 10");
