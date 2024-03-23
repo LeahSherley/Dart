@@ -70,14 +70,14 @@ int? findLargest(List<int> numbers) {
 }
 
 void main() {
-  /*stdout.write('Enter the first number: ');
+  stdout.write('Enter the first number: ');
   int num1 = int.parse(stdin.readLineSync()!);
 
   stdout.write('Enter the second number: ');
   int num2 = int.parse(stdin.readLineSync()!);
 
   int result = sum(num1, num2);
-  print('The sum of $num1 and $num2 is $result');*/
+  print('The sum of $num1 and $num2 is $result');
 
   forloop();
 
