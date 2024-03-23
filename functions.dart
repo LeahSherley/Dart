@@ -45,7 +45,7 @@ dynamic getFirstElement(List list) {
   if (list.isNotEmpty) {
     return list[0];
   } else {
-    return null; 
+    return null;
   }
 }
 
